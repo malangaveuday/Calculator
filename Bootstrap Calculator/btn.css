@@ -1,0 +1,32 @@
+#xyz
+       {
+         margin-top: 10vmin;
+         }
+
+.txt
+      {
+        width: 42vmin;
+        height: 10vmin; 
+        background-color:#FFFFFF ; 
+        color:#993300; 
+        font-weight:bold; 
+        font-size: 3vmin;
+        border: 3px solid red; 
+      }
+      
+.btnclr
+     {
+  	   height: 7vmin;
+  	   width: 14vmin; 
+       font-size: 4vmin;
+       color: #A52A2A;   	   
+       background-color: 66FFCC;
+  	   }     
+
+     
+
+
+    
+    
+
+  
